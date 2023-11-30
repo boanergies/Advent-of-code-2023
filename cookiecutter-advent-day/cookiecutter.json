@@ -1,0 +1,4 @@
+{
+    "day_number": "",
+    "project_slug": "day_{{ cookiecutter.day_number }}"
+}
